@@ -1,0 +1,11 @@
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\bin\Debug\netcoreapp2.2\DataStructuresCSharp.deps.json
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\bin\Debug\netcoreapp2.2\DataStructuresCSharp.runtimeconfig.json
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\bin\Debug\netcoreapp2.2\DataStructuresCSharp.runtimeconfig.dev.json
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\bin\Debug\netcoreapp2.2\DataStructuresCSharp.dll
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\bin\Debug\netcoreapp2.2\DataStructuresCSharp.pdb
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\obj\Debug\netcoreapp2.2\DataStructuresCSharp.csprojAssemblyReference.cache
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\obj\Debug\netcoreapp2.2\DataStructuresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\obj\Debug\netcoreapp2.2\DataStructuresCSharp.AssemblyInfoInputs.cache
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\obj\Debug\netcoreapp2.2\DataStructuresCSharp.AssemblyInfo.cs
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\obj\Debug\netcoreapp2.2\DataStructuresCSharp.dll
+C:\Users\vaib0\source\repos\DSCSharp\DataStructuresCSharp\obj\Debug\netcoreapp2.2\DataStructuresCSharp.pdb

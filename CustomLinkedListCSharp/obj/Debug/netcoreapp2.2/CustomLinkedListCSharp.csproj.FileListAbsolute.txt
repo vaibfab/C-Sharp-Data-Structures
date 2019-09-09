@@ -1,0 +1,11 @@
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\bin\Debug\netcoreapp2.2\CustomLinkedListCSharp.deps.json
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\bin\Debug\netcoreapp2.2\CustomLinkedListCSharp.runtimeconfig.json
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\bin\Debug\netcoreapp2.2\CustomLinkedListCSharp.runtimeconfig.dev.json
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\bin\Debug\netcoreapp2.2\CustomLinkedListCSharp.dll
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\bin\Debug\netcoreapp2.2\CustomLinkedListCSharp.pdb
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\obj\Debug\netcoreapp2.2\CustomLinkedListCSharp.csprojAssemblyReference.cache
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\obj\Debug\netcoreapp2.2\CustomLinkedListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\obj\Debug\netcoreapp2.2\CustomLinkedListCSharp.AssemblyInfoInputs.cache
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\obj\Debug\netcoreapp2.2\CustomLinkedListCSharp.AssemblyInfo.cs
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\obj\Debug\netcoreapp2.2\CustomLinkedListCSharp.dll
+C:\Users\vaib0\source\repos\DSCSharp\CustomLinkedListCSharp\obj\Debug\netcoreapp2.2\CustomLinkedListCSharp.pdb

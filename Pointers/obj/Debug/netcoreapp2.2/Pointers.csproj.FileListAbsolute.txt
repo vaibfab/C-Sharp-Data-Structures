@@ -1,0 +1,11 @@
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\bin\Debug\netcoreapp2.2\Pointers.deps.json
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\bin\Debug\netcoreapp2.2\Pointers.runtimeconfig.json
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\bin\Debug\netcoreapp2.2\Pointers.runtimeconfig.dev.json
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\bin\Debug\netcoreapp2.2\Pointers.dll
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\bin\Debug\netcoreapp2.2\Pointers.pdb
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\obj\Debug\netcoreapp2.2\Pointers.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\obj\Debug\netcoreapp2.2\Pointers.AssemblyInfoInputs.cache
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\obj\Debug\netcoreapp2.2\Pointers.AssemblyInfo.cs
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\obj\Debug\netcoreapp2.2\Pointers.dll
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\obj\Debug\netcoreapp2.2\Pointers.pdb
+C:\Users\vaib0\source\repos\DSCSharp\Pointers\obj\Debug\netcoreapp2.2\Pointers.csprojAssemblyReference.cache
