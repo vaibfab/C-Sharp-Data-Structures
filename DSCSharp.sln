@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysCSharp", "DataStructuresCSharp\ArraysCSharp.csproj", "{977D4D44-8829-45BC-ABF3-9B7B3F980396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pointers", "Pointers\Pointers.csproj", "{90578860-8384-480B-B96D-AC1C5F9E7DFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pointers", "Pointers\Pointers.csproj", "{90578860-8384-480B-B96D-AC1C5F9E7DFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomLinkedListCSharp", "CustomLinkedListCSharp\CustomLinkedListCSharp.csproj", "{AED9AA38-6D93-4D61-AECB-C418DC4CC3B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLinkedListCSharp", "CustomLinkedListCSharp\CustomLinkedListCSharp.csproj", "{AED9AA38-6D93-4D61-AECB-C418DC4CC3B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearDS", "LinearDS\LinearDS.csproj", "{E4929620-9E4D-4568-8D04-A3C67A20C4C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{99B15F12-7933-4C70-8CAE-336FD5A9B262}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{977D4D44-8829-45BC-ABF3-9B7B3F980396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{977D4D44-8829-45BC-ABF3-9B7B3F980396}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{977D4D44-8829-45BC-ABF3-9B7B3F980396}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{977D4D44-8829-45BC-ABF3-9B7B3F980396}.Release|Any CPU.Build.0 = Release|Any CPU
 		{90578860-8384-480B-B96D-AC1C5F9E7DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{90578860-8384-480B-B96D-AC1C5F9E7DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90578860-8384-480B-B96D-AC1C5F9E7DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +25,14 @@ Global
 		{AED9AA38-6D93-4D61-AECB-C418DC4CC3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED9AA38-6D93-4D61-AECB-C418DC4CC3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED9AA38-6D93-4D61-AECB-C418DC4CC3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4929620-9E4D-4568-8D04-A3C67A20C4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4929620-9E4D-4568-8D04-A3C67A20C4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4929620-9E4D-4568-8D04-A3C67A20C4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4929620-9E4D-4568-8D04-A3C67A20C4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B15F12-7933-4C70-8CAE-336FD5A9B262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B15F12-7933-4C70-8CAE-336FD5A9B262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B15F12-7933-4C70-8CAE-336FD5A9B262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B15F12-7933-4C70-8CAE-336FD5A9B262}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

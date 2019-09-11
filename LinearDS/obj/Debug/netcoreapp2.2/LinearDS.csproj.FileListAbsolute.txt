@@ -1,0 +1,11 @@
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\bin\Debug\netcoreapp2.2\LinearDS.deps.json
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\bin\Debug\netcoreapp2.2\LinearDS.runtimeconfig.json
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\bin\Debug\netcoreapp2.2\LinearDS.runtimeconfig.dev.json
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\bin\Debug\netcoreapp2.2\LinearDS.dll
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\bin\Debug\netcoreapp2.2\LinearDS.pdb
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\obj\Debug\netcoreapp2.2\LinearDS.csprojAssemblyReference.cache
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\obj\Debug\netcoreapp2.2\LinearDS.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\obj\Debug\netcoreapp2.2\LinearDS.AssemblyInfoInputs.cache
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\obj\Debug\netcoreapp2.2\LinearDS.AssemblyInfo.cs
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\obj\Debug\netcoreapp2.2\LinearDS.dll
+C:\Users\vaib0\source\repos\DSCSharp\LinearDS\obj\Debug\netcoreapp2.2\LinearDS.pdb

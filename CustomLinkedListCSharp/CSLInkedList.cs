@@ -1,5 +1,6 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.Reflection;
 namespace CustomLinkedListCSharp
 {
     class CSLinkedList
@@ -91,7 +92,6 @@ namespace CustomLinkedListCSharp
                 }
             }
         }
-
         public void InsertAtPosition(CSLinkedList list, int data, int position)
         {
             if (position > list.Length(list) + 1 || position < 1)
